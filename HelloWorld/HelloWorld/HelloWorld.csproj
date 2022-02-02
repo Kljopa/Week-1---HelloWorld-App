@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Utseba\Tallinna Tehnikakõrgkool\3 Aasta 2021_2022\2. Kevadsemester\Programmeerimise algkursus %28RKE132%29\Projects\HelloWorld\Hello_+\Hello_+.cs" Link="Hello_+.cs" />
+  </ItemGroup>
+
+</Project>
